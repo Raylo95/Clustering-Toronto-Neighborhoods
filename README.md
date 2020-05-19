@@ -2,7 +2,6 @@
 
 ## Assignment is seperated into two notebooks:
 ### A) Scraping and Cleaning Toronto Data
-  
   1.Scraping the Dataset using BeautifulSoup
   
   2. Using the Geospatial Coordinates csv to clean the dataset
